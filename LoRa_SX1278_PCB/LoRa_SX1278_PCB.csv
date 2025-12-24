@@ -1,0 +1,7 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+BT1,1,Battery,,,,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~
+J1,1,I2C MODULE,,,,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,~
+"PullUp_R1,PullUp_R2,PullUp_R3,PullUp_R4,PullUp_R5",5,100K,,,,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,~
+"SW1,SW2,SW3,SW4,SW5",5,SW_SPST,,,,Button_Switch_THT:SW_TH_Tactile_Omron_B3F-100x,~
+U1,1,LoRa SX1278,,,,LoRa_SX1278_:LoRa_SX1278,
+U2,1,~,,,,esp32devkitv1:ESP32DEVIKITV1,

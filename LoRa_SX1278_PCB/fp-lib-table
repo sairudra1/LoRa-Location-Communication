@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LoRa_SX1278_PCB")(type "KiCad")(uri "C:/Users/sairu/OneDrive/Desktop/LoRa_SX1278_PCB.pretty")(options "")(descr ""))
+  (lib (name "esp32devkitv1")(type "KiCad")(uri "C:/Users/sairu/OneDrive/Desktop/esp32devkitv1.pretty")(options "")(descr ""))
+)
